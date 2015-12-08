@@ -1,0 +1,2 @@
+# JavaTest
+JNLP Application test
